@@ -6,7 +6,7 @@ public class Math {
 		// TODO Auto-generated method stub
 		System.out.println( add(2, 3) );
 		
-		System.out.println(add(3,5));
+		System.out.println(add(3,6));
 	}
 
 	public static int add(int a, int b) {
